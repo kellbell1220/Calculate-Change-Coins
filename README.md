@@ -6,4 +6,4 @@ Write a program that prints the number of quarters, dimes, nickels, and pennies 
 
 ## Output
 
-! [alt text](ChangerApp.JPG)
+![alt text](ChangerApp.JPG)
